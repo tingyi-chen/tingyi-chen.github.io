@@ -1,3 +1,5 @@
 main:
   - title: "Publication"
     url: /publication/
+  - title: "Project"
+    url: /project/

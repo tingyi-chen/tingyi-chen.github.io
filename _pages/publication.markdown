@@ -1,5 +1,5 @@
 ---
-layout: splash
+layout: single # splash
 title: Publication
 permalink: /publication/
 

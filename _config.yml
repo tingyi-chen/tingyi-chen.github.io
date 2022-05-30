@@ -56,3 +56,15 @@ plugins:
 include:
    - _pages
    - _data
+
+footer:
+  links:
+    - label: "Mail"
+      icon: "fas fa-fw fa-envelope-square"
+      url: mailto:tingyichen.ntu@gmail.com
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/tingyi-chen"
+
+atom_feed:
+  hide: true
