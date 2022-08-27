@@ -6,4 +6,4 @@ permalink: /project/
 ---
 
 ## Python Programming for Zurich HF2LI
-Provide DC offset, AC output and frequency sweeping at desired temperature environments with just one click.[Link](https://github.com/tingyi-chen/ZurichxLakeShore)
+Provide DC offset, AC output and frequency sweeping at desired temperature environments. [Link](https://github.com/tingyi-chen/ZurichxLakeShore)
