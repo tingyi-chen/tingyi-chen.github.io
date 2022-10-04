@@ -8,7 +8,7 @@ permalink: /
 # Ting-Yi Chen (陳庭毅)
 {: style="text-align: center;"}
 ## Ph.D. (2020-now)
-Applied Mechanics, NTU, Taipei, Taiwan (Advisor: Prof. Wei-Chang Li)
+[**Resolab**](http://ntureso.com/), Institute of Applied Mechanics, NTU, Taipei, Taiwan (Advisor: Prof. Wei-Chang Li)
 
 *Supported by Direct Admission to Doctoral Porgram w/ NTU and PhD Scholarship Program w/ TSMC*
 #### Research Interests
