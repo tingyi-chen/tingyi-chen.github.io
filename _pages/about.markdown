@@ -11,7 +11,7 @@ permalink: /
 Applied Mechanics, NTU, Taipei, Taiwan (Advisor: Prof. Wei-Chang Li)
 
 *Supported by Direct Admission to Doctoral Porgram w/ NTU and PhD Scholarship Program w/ TSMC*
-### Research Interests
+#### Research Interests
 1. Nonlinear dynamics in CMOS-MEMS resonators
 2. Contact microphones for patients with Articulation Disorders
 3. Event-driven acoustic resonant switches (resoswitches)
