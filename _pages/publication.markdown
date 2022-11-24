@@ -6,9 +6,13 @@ permalink: /publication/
 ---
 
 ## Conference Paper
-1. **T.-Y. Chen**, C.-P. Tsai, and W.-C. Li, “1:6 Internal Resonance in CMOS-MEMS Multiple-Stepped CC-Beam,” in the 35th IEEE Int. Conf. on Micro Electro Mechanical Systems (MEMS’22), Tokyo, Japan, Jan. 9-13, 2022. (Hybrid Event)**(Oral Paper)**.
-2. P.-C. Huang, **T.-Y. Chen**, C.-P. Tsai, and W.-C. Li, “An Ultrasensitive CMOS-MEMS Tuned-Mass-Damper (TMD) Based Voltmeter,” in the 35th IEEE Int. Conf. on Micro Electro Mechanical Systems (MEMS’22), Tokyo, Japan, Jan. 9-13, 2022. (Hybrid Event).
-3. H.-S. Zheng, C.-P. Tsai, **T.-Y. Chen**, and W.-C. Li, “CMOS-MEMS Resonators with sub-100-nm Transducer Gap Using Stress Engineering,” in the 35th IEEE Int. Conf. on Micro Electro Mechanical Systems (MEMS’22), Tokyo, Japan, Jan. 9-13, 2022. (Hybrid Event)**(Oral Paper)**.
+1. **T.-Y. Chen**, C.-P. Tsai, and W.-C. Li, “A CMOS-MEMS Ultrasensitive Thermometer Using Internal Resonance Induced Frequency Combs,” in the 36th IEEE Int. Conf. on Micro Electro Mechanical Systems (MEMS’23), Munich, Germany, Jan. 15-19, 2023.**(Oral Paper)**.
+2. **T.-Y. Chen** and W.-C. Li, “A CMOS-MEMS Beam Resonator with *Q* > 10,000,” in the 36th IEEE Int. Conf. on Micro Electro Mechanical Systems (MEMS’23), Munich, Germany, Jan. 15-19, 2023.
+3. I.-C. Hsieh, H.-S. Zheng, C.-P. Tsai, **T.-Y. Chen**, and W.-C. Li, “Generic Temperature Compensation Scheme for CMOS-MEMS Resonators Based on Arc-Beam Derived Electrical Stiffness Frequency Pulling,“ in the 36th IEEE Int. Conf. on Micro Electro Mechanical Systems (MEMS’23), Munich, Germany, Jan. 15-19, 2023.
+4. T.-J. Liou, C.-P. Tsai, **T.-Y. Chen**, and W.-C. Li, “Towards a Better CMOS-MEMS Resoswitch Using Electroless Plating for Contact Engineering,“ in the 36th IEEE Int. Conf. on Micro Electro Mechanical Systems (MEMS’23), Munich, Germany, Jan. 15-19, 2023.
+5. **T.-Y. Chen**, C.-P. Tsai, and W.-C. Li, “1:6 Internal Resonance in CMOS-MEMS Multiple-Stepped CC-Beam,” in the 35th IEEE Int. Conf. on Micro Electro Mechanical Systems (MEMS’22), Tokyo, Japan, Jan. 9-13, 2022. (Hybrid Event)**(Oral Paper)**.
+6. P.-C. Huang, **T.-Y. Chen**, C.-P. Tsai, and W.-C. Li, “An Ultrasensitive CMOS-MEMS Tuned-Mass-Damper (TMD) Based Voltmeter,” in the 35th IEEE Int. Conf. on Micro Electro Mechanical Systems (MEMS’22), Tokyo, Japan, Jan. 9-13, 2022. (Hybrid Event).
+7. H.-S. Zheng, C.-P. Tsai, **T.-Y. Chen**, and W.-C. Li, “CMOS-MEMS Resonators with sub-100-nm Transducer Gap Using Stress Engineering,” in the 35th IEEE Int. Conf. on Micro Electro Mechanical Systems (MEMS’22), Tokyo, Japan, Jan. 9-13, 2022. (Hybrid Event)**(Oral Paper)**.
 {: style="text-align: justify;"}
 
 ## Journal Paper
