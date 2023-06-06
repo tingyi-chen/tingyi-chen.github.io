@@ -6,10 +6,11 @@ permalink: /publication/
 ---
 
 ## 2023
-1. **T.-Y. Chen**, C.-P. Tsai, and W.-C. Li, “A CMOS-MEMS Ultrasensitive Thermometer Using Internal Resonance Induced Frequency Combs,” in the 36th IEEE Int. Conf. on Micro Electro Mechanical Systems (MEMS’23), Munich, Germany, Jan. 15-19, 2023.**(Oral Paper)**. (Funding: FAOS 優秀學生出國開會申請補助)
-2. **T.-Y. Chen** and W.-C. Li, “A CMOS-MEMS Beam Resonator with *Q* > 10,000,” in the 36th IEEE Int. Conf. on Micro Electro Mechanical Systems (MEMS’23), Munich, Germany, Jan. 15-19, 2023.
-3. T.-J. Liou, C.-P. Tsai, **T.-Y. Chen**, and W.-C. Li, “Towards a Better CMOS-MEMS Resoswitch Using Electroless Plating for Contact Engineering,“ in the 36th IEEE Int. Conf. on Micro Electro Mechanical Systems (MEMS’23), Munich, Germany, Jan. 15-19, 2023.
-4. I.-C. Hsieh, H.-S. Zheng, C.-P. Tsai, **T.-Y. Chen**, and W.-C. Li, “Generic Temperature Compensation Scheme for CMOS-MEMS Resonators Based on Arc-Beam Derived Electrical Stiffness Frequency Pulling,“ in the 36th IEEE Int. Conf. on Micro Electro Mechanical Systems (MEMS’23), Munich, Germany, Jan. 15-19, 2023.
+1. T.-Y. Chen, C.-P. Tsai and W.-C. Li, “Constructing Micromechanical Frequency Combs in Bifcating Attractor Branches for Event Triggered Sensors,” in the 22nd Int. Conf. on Solid-State Sensors & Actuators (TRANSDUCERS’23), Kyoto, Japan, Jun. 25-29, 2023. **(Oral Presentation)**. (Funding: NSTC 補助國內研究生參與國際學術會議)
+2. **T.-Y. Chen**, C.-P. Tsai, and W.-C. Li, “A CMOS-MEMS Ultrasensitive Thermometer Using Internal Resonance Induced Frequency Combs,” in the 36th IEEE Int. Conf. on Micro Electro Mechanical Systems (MEMS’23), Munich, Germany, Jan. 15-19, 2023.**(Oral Paper)**. (Funding: FAOS 優秀學生出國開會申請補助)
+3. **T.-Y. Chen** and W.-C. Li, “A CMOS-MEMS Beam Resonator with *Q* > 10,000,” in the 36th IEEE Int. Conf. on Micro Electro Mechanical Systems (MEMS’23), Munich, Germany, Jan. 15-19, 2023.
+4. T.-J. Liou, C.-P. Tsai, **T.-Y. Chen**, and W.-C. Li, “Towards a Better CMOS-MEMS Resoswitch Using Electroless Plating for Contact Engineering,“ in the 36th IEEE Int. Conf. on Micro Electro Mechanical Systems (MEMS’23), Munich, Germany, Jan. 15-19, 2023.
+5. I.-C. Hsieh, H.-S. Zheng, C.-P. Tsai, **T.-Y. Chen**, and W.-C. Li, “Generic Temperature Compensation Scheme for CMOS-MEMS Resonators Based on Arc-Beam Derived Electrical Stiffness Frequency Pulling,“ in the 36th IEEE Int. Conf. on Micro Electro Mechanical Systems (MEMS’23), Munich, Germany, Jan. 15-19, 2023.
 
 {: style="text-align: justify;"}
 

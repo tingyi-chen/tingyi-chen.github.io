@@ -14,13 +14,12 @@ permalink: /
 
 #### Research Interests
 1. Nonlinear dynamics in MEMS resonators
-2. Acceleration-based contact microphones
-3. Event-driven acoustic resonant switches (resoswitches)
+2. Smart micromechanical sensor front-end
+3. Micromechanical hardware encryption techniques
 
 #### Awards
-1. 2022 TSRI 微機電/微系統晶片優等設計獎
-2. SNDCT 2022 學生論文海報競賽入圍獎
-3. Automation 2021 學生論文競賽金牌獎
+1. 2023 TSRI 微機電/微系統晶片優等設計獎
+2. 2022 TSRI 微機電/微系統晶片優等設計獎
 
 ## B.S. (2016-2020)
 1. Aeronautics and Astronautics, NCKU, Tainan, Taiwan 
