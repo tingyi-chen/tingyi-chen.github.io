@@ -5,10 +5,11 @@ permalink: /publication/
 
 ---
 ## 2024
-1. **T.-Y. Chen** and W.-C. Li, “Bifurcation Generated True Random Numbers in Nonlinear Micromechanical Resonators,” in the 367th IEEE Int. Conf. on Micro Electro Mechanical Systems (MEMS’24), Austin, Texas, USA, Jan. 21-25, 2024. (Funding: TBD)
-2. I.-F. Chung, **T.-Y. Chen**, P.-C. Huang, T.-J. Liou, and W.-C. Li, “CMOS-MEMS Tuned-Mass-Damper Based Physical Unclonable Function (PUF),” in the 37th IEEE Int. Conf. on Micro Electro Mechanical Systems (MEMS’24), Austin, Texas, USA, Jan. 21-25, 2024.
-3. C.-M. Lee, T.-J. Liou, C.-P. Tsai, **T.-Y. Chen**, and W.-C. Li, “Toward High-Speed CMOS-MEMS Resoswitches,” in the 37th IEEE Int. Conf. on Micro Electro Mechanical Systems (MEMS’24), Austin, Texas, USA, Jan. 21-25, 2024. **(Oral Presentation)**
-4. K.-W. Lan, I.-F. Chung, C.-P. Tsai, **T.-Y. Chen**, and W.-C. Li, “TCF-Tailoring Vertically Stepped Structures for Temperature Insensitive CMOS-MEMS Resonators,” in the 37th IEEE Int. Conf. on Micro Electro Mechanical Systems (MEMS’24), Austin, Texas, USA, Jan. 21-25, 2024. **(Oral Presentation)**
+1. **T.-Y. Chen** and W.-C. Li, “True Random Number Generation in Nonlinear Internal-Resonating MEMS Resonators," IEEE Electron Device Letters (EDL), Early Access, 2023.
+2. **T.-Y. Chen** and W.-C. Li, “Bifurcation Generated True Random Numbers in Nonlinear Micromechanical Resonators,” in the 367th IEEE Int. Conf. on Micro Electro Mechanical Systems (MEMS’24), Austin, Texas, USA, Jan. 21-25, 2024. (Funding: TBD)
+3. I.-F. Chung, **T.-Y. Chen**, P.-C. Huang, T.-J. Liou, and W.-C. Li, “CMOS-MEMS Tuned-Mass-Damper Based Physical Unclonable Function (PUF),” in the 37th IEEE Int. Conf. on Micro Electro Mechanical Systems (MEMS’24), Austin, Texas, USA, Jan. 21-25, 2024.
+4. C.-M. Lee, T.-J. Liou, C.-P. Tsai, **T.-Y. Chen**, and W.-C. Li, “Toward High-Speed CMOS-MEMS Resoswitches,” in the 37th IEEE Int. Conf. on Micro Electro Mechanical Systems (MEMS’24), Austin, Texas, USA, Jan. 21-25, 2024. **(Oral Presentation)**
+5. K.-W. Lan, I.-F. Chung, C.-P. Tsai, **T.-Y. Chen**, and W.-C. Li, “TCF-Tailoring Vertically Stepped Structures for Temperature Insensitive CMOS-MEMS Resonators,” in the 37th IEEE Int. Conf. on Micro Electro Mechanical Systems (MEMS’24), Austin, Texas, USA, Jan. 21-25, 2024. **(Oral Presentation)**
 
 ## 2023
 1. **T.-Y. Chen**, C.-P. Tsai and W.-C. Li, “Constructing Micromechanical Frequency Combs in Bifcating Attractor Branches for Event Triggered Sensors,” in the 22nd Int. Conf. on Solid-State Sensors & Actuators (TRANSDUCERS’23), Kyoto, Japan, Jun. 25-29, 2023. **(Oral Presentation)**. (Funding: NSTC 補助國內研究生參與國際學術會議)
