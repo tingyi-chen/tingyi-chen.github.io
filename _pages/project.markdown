@@ -6,7 +6,7 @@ permalink: /project/
 ---
 ## Ph.D.
 #### Machine Learning Techniques (Fall, 2020)
-Instructed by Prof. Hsuan-Tien Lin from NTU, I participated in constructing a machine learning model based on Gradient Boosted Algorithm for predicting the daily revenue of a specific hotel booking platform. [Link](https://github.com/tingyi-chen/ML-Final-Project)
+Instructed by Prof. Hsuan-Tien Lin at NTU, I participated in constructing a machine learning model based on Gradient Boosted Algorithm for predicting the daily revenue of a hotel booking platform. [Link](https://github.com/tingyi-chen/ML-Final-Project)
 
 ## B.S.
 #### Equipment Management System

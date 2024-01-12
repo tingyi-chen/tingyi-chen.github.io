@@ -5,8 +5,8 @@ permalink: /publication/
 
 ---
 ## 2024
-1. **T.-Y. Chen** and W.-C. Li, “True Random Number Generation in Nonlinear Internal-Resonating MEMS Resonators," IEEE Electron Device Letters (EDL), Early Access, 2023.
-2. **T.-Y. Chen** and W.-C. Li, “Bifurcation Generated True Random Numbers in Nonlinear Micromechanical Resonators,” in the 37th IEEE Int. Conf. on Micro Electro Mechanical Systems (MEMS’24), Austin, Texas, USA, Jan. 21-25, 2024. (Funding: TBD)
+1. **T.-Y. Chen** and W.-C. Li, “True Random Number Generation in Nonlinear Internal-Resonating MEMS Resonators," IEEE Electron Device Letters (EDL), vol. 45, no. 1, pp. 116-119, Jan. 2024.
+2. **T.-Y. Chen** and W.-C. Li, “Bifurcation Generated True Random Numbers in Nonlinear Micromechanical Resonators,” in the 37th IEEE Int. Conf. on Micro Electro Mechanical Systems (MEMS’24), Austin, Texas, USA, Jan. 21-25, 2024. (Funding: NSTC 補助國內研究生參與國際學術會議)
 3. I.-F. Chung, **T.-Y. Chen**, P.-C. Huang, T.-J. Liou, and W.-C. Li, “CMOS-MEMS Tuned-Mass-Damper Based Physical Unclonable Function (PUF),” in the 37th IEEE Int. Conf. on Micro Electro Mechanical Systems (MEMS’24), Austin, Texas, USA, Jan. 21-25, 2024.
 4. C.-M. Lee, T.-J. Liou, C.-P. Tsai, **T.-Y. Chen**, and W.-C. Li, “Toward High-Speed CMOS-MEMS Resoswitches,” in the 37th IEEE Int. Conf. on Micro Electro Mechanical Systems (MEMS’24), Austin, Texas, USA, Jan. 21-25, 2024. **(Oral Presentation)**
 5. K.-W. Lan, I.-F. Chung, C.-P. Tsai, **T.-Y. Chen**, and W.-C. Li, “TCF-Tailoring Vertically Stepped Structures for Temperature Insensitive CMOS-MEMS Resonators,” in the 37th IEEE Int. Conf. on Micro Electro Mechanical Systems (MEMS’24), Austin, Texas, USA, Jan. 21-25, 2024. **(Oral Presentation)**
