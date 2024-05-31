@@ -18,8 +18,9 @@ permalink: /
 3. Micromechanical hardware encryption techniques
 
 #### Awards
-1. 2023 TSRI 微機電/微系統晶片優等設計獎
-2. 2022 TSRI 微機電/微系統晶片優等設計獎
+1. 2024 TSRI 微機電/微系統晶片特優設計獎
+2. 2023 TSRI 微機電/微系統晶片優等設計獎
+3. 2022 TSRI 微機電/微系統晶片優等設計獎
 
 ## B.S. (2016-2020)
 1. Aeronautics and Astronautics, NCKU, Tainan, Taiwan 
