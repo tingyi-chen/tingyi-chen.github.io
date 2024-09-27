@@ -14,8 +14,8 @@ permalink: /
 
 #### Research Interests
 1. Nonlinear dynamics in MEMS resonators
-2. Smart micromechanical sensor front-end
-3. Micromechanical hardware encryption techniques
+2. Micromechanical hardware encryption techniques
+3. MEMS-enabled tunable metamaterials
 
 #### Awards
 1. 2024 TSRI 微機電/微系統晶片特優設計獎

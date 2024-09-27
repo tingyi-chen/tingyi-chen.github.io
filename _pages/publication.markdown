@@ -5,7 +5,7 @@ permalink: /publication/
 
 ---
 ## 2024
-1. C.-Y. Hsu, P.-H. Chen, **T.-Y. Chen**, S.-Y. Lin, T.-J. Lin, C.-W. Yeh, C.-J. Wang, W.-C. Li, and P.-Z. Chang, "Performance Evaluation of MEMS Vibration Sensors for Throat Microphones,” in IEEE SENSORS 2024, Kobe, Japan, Oct. 20-Oct. 23, 2024.
+1. C.-Y. Hsu, P.-H. Chen, **T.-Y. Chen**, S.-Y. Lin, T.-J. Lin, C.-W. Yeh, C.-J. Wang, W.-C. Li, and P.-Z. Chang, "Performance Evaluation of MEMS Vibration Sensors for Throat Microphones,” in IEEE SENSORS 2024, Kobe, Japan, Oct. 20-23, 2024.
 2. **T.-Y. Chen** and W.-C. Li, "A Micromechanical Frequency Comb-Based Binary Phase Shift Keying Demodulator," Proc., 2024 IEEE Ultrasonics, Ferroelectrics, and Frequency Control Joint Symposium (UFFC-JS'24), Taipei, Taiwan, Sep. 22-26, 2024.
 3. **T.-Y. Chen** and W.-C. Li, “True Random Number Generation in Nonlinear Internal-Resonating MEMS Resonators," IEEE Electron Device Letters (EDL), vol. 45, no. 1, pp. 116-119, Jan. 2024.
 4. **T.-Y. Chen** and W.-C. Li, “Bifurcation Generated True Random Numbers in Nonlinear Micromechanical Resonators,” in the 37th IEEE Int. Conf. on Micro Electro Mechanical Systems (MEMS’24), Austin, Texas, USA, Jan. 21-25, 2024. (Funding: NSTC 補助國內研究生參與國際學術會議)
@@ -33,7 +33,7 @@ permalink: /publication/
 {: style="text-align: justify;"}
 
 ## Domestic Conferences
-1. Y.-X. Huang, T.-Y. Chen, T.-J. Liou, and W.-C. Li, "Numerical Study of the Limitation of Pre-Energization Technique for Bit-Rate Increasing in Resoswitches," in the ICSS 2024 International Conference on Smart Sensors (暨第29屆台灣化學感測器科技研討會/第27屆微奈米系統工程研討會), Hsinchu, Jul. 1-2, 2024.
+1. Y.-X. Huang, **T.-Y. Chen**, T.-J. Liou, and W.-C. Li, "Numerical Study of the Limitation of Pre-Energization Technique for Bit-Rate Increasing in Resoswitches," in the ICSS 2024 International Conference on Smart Sensors (暨第29屆台灣化學感測器科技研討會/第27屆微奈米系統工程研討會), Hsinchu, Jul. 1-2, 2024.
 2. C.-Y. Hsu, **T.-Y. Chen**, and W.-C. Li, “An Ultrasensitive Mode-Localized MEMS Resonant Accelerometer,” in the CACS 2023 International Automatic Control Conference (暨111年控制學門成果發表會), NPU, Penghu, Oct. 26-29, 2023. **(Best Student Paper Award Honorable Mention)**
 3. I.-C. Hsieh, **T.-Y. Chen**, and W.-C. Li, “以弧形結構實現微機電元件之被動式溫度補償,” 中華民國力學學會第四十六屆全國力學會議 (CTAM 2022), NKUST, Kaohsiung, Nov. 18-19, 2022.
 4. **T.-Y. Chen** and W.-C. Li, “Helmholtz Resonator Based Acoustic Filter Front-End,” in the ICSS 2022 International Conference on Smart Sensors (暨第27屆台灣化學感測器科技研討會/第25屆微奈米系統工程研討會), NCHU, Taichung, Oct. 22-23. 2022.
