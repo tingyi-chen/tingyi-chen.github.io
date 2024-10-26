@@ -14,7 +14,7 @@ permalink: /
 
 #### Research Interests
 1. Nonlinear dynamics in MEMS resonators
-2. Micromechanical hardware encryption techniques
+2. MEMS for computing and cryptography
 3. MEMS-enabled tunable metamaterials
 
 #### Awards
