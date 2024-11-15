@@ -10,7 +10,7 @@ permalink: /
 ## Ph.D. (2020-now)
 [**Resolab**](http://ntureso.com/), Institute of Applied Mechanics, NTU, Taipei, Taiwan (Advisor: Prof. Wei-Chang Li)
 
-*Supported by NTU Direct Admission to Doctoral Porgram and TSMC PhD Fellowship*
+*Supported by NTU Direct Admission to Doctoral Porgram, TSMC PhD Fellowship, and TSRI Young Talent Fellowship*
 
 #### Research Interests
 1. Nonlinear dynamics in MEMS resonators
