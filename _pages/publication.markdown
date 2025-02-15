@@ -5,8 +5,11 @@ permalink: /publication/
 
 ---
 ## 2025
-1. **T.-Y. Chen** and W.-C. Li, "CMOS-MEMS Physical Unclonable Functions Based on Unbalanced Bimodal Frequency Combs,” in the 38th IEEE Int. Conf. on Micro Electro Mechanical Systems (MEMS’25), Kaohsiung, Taiwan, Jan. 19-23, 2025. **(Oral Presentation)**. (Funding: TBD)
-2. N. Basu, C.-P. Tsai, **T.-Y. Chen**, and W.-C. Li, "A Quick-Settling Enhancement-Mode Resoswitch," in the 38th IEEE Int. Conf. on Micro Electro Mechanical Systems (MEMS’25), Kaohsiung, Taiwan, Jan. 19-23, 2025. **(Oral Presentation)**
+1. **T.-Y. Chen** and W.-C. Li, “Self-Frequency Pumping for Chaotic Micromechanical Frequency Comb Generation via Multimodal Internal Resonance,” in the 23rd Int. Conf. on Solid-State Sensors & Actuators (TRANSDUCERS’25), Orlando, Florida, USA, Jun. 29-Jul. 3, 2025. **(Oral Presentation)**
+2. P.-H. Chen, **T.-Y. Chen**, S.-Y. Lin, P.-Z. Chang, T.-J. Lin, and W.-C. Li, “Toward Zero-Power Feature Extraction for Speech Wakeup Using Helmholtz Resonator Array,” in the 23rd Int. Conf. on Solid-State Sensors & Actuators (TRANSDUCERS’25), Orlando, Florida, USA, Jun. 29-Jul. 3, 2025.
+3. S.-Y. Lin, P.-H. Chen, **T.-Y. Chen**,  P.-Z. Chang, and W.-C. Li, “MEMS Microphone-Driven Near-Sensor Reservoir Computing for Lightweight Tool Wear Classification in Milling,” in the 23rd Int. Conf. on Solid-State Sensors & Actuators (TRANSDUCERS’25), Orlando, Florida, USA, Jun. 29-Jul. 3, 2025.
+4. **T.-Y. Chen** and W.-C. Li, "CMOS-MEMS Physical Unclonable Functions Based on Unbalanced Bimodal Frequency Combs,” in the 38th IEEE Int. Conf. on Micro Electro Mechanical Systems (MEMS’25), Kaohsiung, Taiwan, Jan. 19-23, 2025. **(Oral Presentation, Outstanding Student Oral Paper Award Finalist)**.
+5. N. Basu, C.-P. Tsai, **T.-Y. Chen**, and W.-C. Li, "A Quick-Settling Enhancement-Mode Resoswitch," in the 38th IEEE Int. Conf. on Micro Electro Mechanical Systems (MEMS’25), Kaohsiung, Taiwan, Jan. 19-23, 2025. **(Oral Presentation)**
 
 ## 2024
 1. C.-Y. Hsu, P.-H. Chen, **T.-Y. Chen**, S.-Y. Lin, T.-J. Lin, C.-W. Yeh, C.-J. Wang, W.-C. Li, and P.-Z. Chang, "Performance Evaluation of MEMS Vibration Sensors for Throat Microphones,” in IEEE SENSORS 2024, Kobe, Japan, Oct. 20-23, 2024.
