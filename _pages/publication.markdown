@@ -5,7 +5,7 @@ permalink: /publication/
 
 ---
 ## 2025
-1. **T.-Y. Chen** and W.-C. Li, “Self-Frequency Pumping for Chaotic Micromechanical Frequency Comb Generation via Multimodal Internal Resonance,” in the 23rd Int. Conf. on Solid-State Sensors & Actuators (TRANSDUCERS’25), Orlando, Florida, USA, Jun. 29-Jul. 3, 2025. **(Oral Presentation)**
+1. **T.-Y. Chen** and W.-C. Li, “Self-Frequency Pumping for Chaotic Micromechanical Frequency Comb Generation via Multimodal Internal Resonance,” in the 23rd Int. Conf. on Solid-State Sensors & Actuators (TRANSDUCERS’25), Orlando, Florida, USA, Jun. 29-Jul. 3, 2025. **(Oral Presentation)**. (Funding: FAOS 優秀學生出國開會申請補助)
 2. P.-H. Chen, **T.-Y. Chen**, S.-Y. Lin, P.-Z. Chang, T.-J. Lin, and W.-C. Li, “Toward Zero-Power Feature Extraction for Speech Wakeup Using Helmholtz Resonator Array,” in the 23rd Int. Conf. on Solid-State Sensors & Actuators (TRANSDUCERS’25), Orlando, Florida, USA, Jun. 29-Jul. 3, 2025.
 3. S.-Y. Lin, P.-H. Chen, **T.-Y. Chen**,  P.-Z. Chang, and W.-C. Li, “MEMS Microphone-Driven Near-Sensor Reservoir Computing for Lightweight Tool Wear Classification in Milling,” in the 23rd Int. Conf. on Solid-State Sensors & Actuators (TRANSDUCERS’25), Orlando, Florida, USA, Jun. 29-Jul. 3, 2025.
 4. H. Zhou, **T.-Y. Chen**, Z. Ren, D. Li, C. Xu, C.-P. Tsai, W.-C. Li, and C. Lee, “MEMS-Driven Electrically Reconfigurable Platform for Photonic Quasi-bound States in the Continuum,” in the 23rd Int. Conf. on Solid-State Sensors & Actuators (TRANSDUCERS’25), Orlando, Florida, USA, Jun. 29-Jul. 3, 2025. **(Oral Presentation)**
