@@ -17,13 +17,14 @@ permalink: /
 2. MEMS-enabled emerging applications
 
 #### Awards
-1. 2024 TSRI 微機電/微系統晶片特優設計獎
-2. 2024 國立台灣大學奈米機電系統研究中心使用者大會論文競賽特優獎
-2. 2023 TSRI 微機電/微系統晶片優等設計獎
-3. 2023 CACS 學生論文競賽榮譽提名
-4. 2022 TSRI 微機電/微系統晶片優等設計獎
-5. 2022 SNDCT 學生論文海報競賽入圍獎
-6. 2021 Automation 學生論文競賽金牌獎
+1. 2025 NTU NEMS Center 使用者大會論文競賽特優獎
+2. 2024 NTU NEMS Center 使用者大會論文競賽特優獎
+3. 2024 TSRI 微機電/微系統晶片特優設計獎 
+4. 2023 TSRI 微機電/微系統晶片優等設計獎
+5. 2023 CACS 學生論文競賽榮譽提名
+6. 2022 TSRI 微機電/微系統晶片優等設計獎
+7. 2022 SNDCT 學生論文海報競賽入圍獎
+8. 2021 Automation 學生論文競賽金牌獎
 
 #### Experience
 1. 2022-2023 SEM Lecturer, NEMS Center, NTU

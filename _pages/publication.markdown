@@ -45,8 +45,8 @@ permalink: /publication/
 {: style="text-align: justify;"}
 
 ## Domestic Conferences
-1. **T.-Y. Chen** and W.-C. Li, "A Nonlinear Micromechanical Resonant XOR Logic Gate," in the ICSS 2025 International Conference on Smart Sensors (暨第30屆台灣化學感測器科技研討會/第28屆微奈米系統工程研討會), Hsinchu, Jun. 23-24, 2025.
-2. S.-Y. Lin, P.-H. Chen, **T.-Y. Chen**, P.-Z. Chang, and W.-C. Li, "Tool Wear Classification in Milling via MEMS Microphone-Based Reservoir Computing," in the ICSS 2025 International Conference on Smart Sensors (暨第30屆台灣化學感測器科技研討會/第28屆微奈米系統工程研討會), Hsinchu, Jun. 23-24, 2025.
+1. **T.-Y. Chen** and W.-C. Li, "A Nonlinear Micromechanical Resonant XOR Logic Gate," in the ICSS 2025 International Conference on Smart Sensors (暨第30屆台灣化學感測器科技研討會/第28屆微奈米系統工程研討會), Hsinchu, Jun. 23-24, 2025. **(Outstanding Poster Presentation Award)**
+2. S.-Y. Lin, P.-H. Chen, **T.-Y. Chen**, P.-Z. Chang, and W.-C. Li, "Tool Wear Classification in Milling via MEMS Microphone-Based Reservoir Computing," in the ICSS 2025 International Conference on Smart Sensors (暨第30屆台灣化學感測器科技研討會/第28屆微奈米系統工程研討會), Hsinchu, Jun. 23-24, 2025. **(Outstanding Poster Presentation Award)**
 3. Y.-X. Huang, **T.-Y. Chen**, T.-J. Liou, and W.-C. Li, "Numerical Study of the Limitation of Pre-Energization Technique for Bit-Rate Increasing in Resoswitches," in the ICSS 2024 International Conference on Smart Sensors (暨第29屆台灣化學感測器科技研討會/第27屆微奈米系統工程研討會), Hsinchu, Jul. 1-2, 2024.
 4. C.-Y. Hsu, **T.-Y. Chen**, and W.-C. Li, “An Ultrasensitive Mode-Localized MEMS Resonant Accelerometer,” in the CACS 2023 International Automatic Control Conference (暨111年控制學門成果發表會), NPU, Penghu, Oct. 26-29, 2023. **(Best Student Paper Award Honorable Mention)**
 5. I.-C. Hsieh, **T.-Y. Chen**, and W.-C. Li, “以弧形結構實現微機電元件之被動式溫度補償,” 中華民國力學學會第四十六屆全國力學會議 (CTAM 2022), NKUST, Kaohsiung, Nov. 18-19, 2022.
