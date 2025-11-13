@@ -13,6 +13,7 @@ permalink: /publication/
 6. C.-J. Hsueh, C.-P. Tsai, I.-F. Chung, **T.-Y. Chen**, and W.-C. Li, “CMOS-MEMS PUF Exploiting Mode Localization in a Multi-DOF Tuned-Mass-Damper Resonator,” in the 39th IEEE Int. Conf. on Micro Electro Mechanical Systems (MEMS’26), Salzburg, Austria, Jan. 25-29, 2026.
 
 ## 2025
+1. **T.-Y. Chen**, N. Basu, C.-Y. Chang, S.-H. Tseng, and W.-C. Li, “A Post-Processing-Free True Random Number Generator Based on a Chaotic Piezoelectric MEMS Oscillator,” IEEE Electron Device Letters (EDL), 2025. (Accepted)
 1. I.-C. Hsieh, **T.-Y. Chen** , C.-P. Tsai, H.-S. Zheng, and W.-C. Li, “Temperature-Stable CMOS-MEMS Resonators via Arc-Beam-Induced Electrical Stiffness Tuning,” IEEE J. Microelectromech. Syst. (JMEMS), Early Access.
 2. **T.-Y. Chen** and W.-C. Li, “Using Nonlinear CMOS-MEMS Resonators for Self-Encrypting Analog-to-Digital Conversion,” in the 71st Int. Electron Devices Meeting (IEEE IEDM 2025), San Francisco, California, USA, Dec. 6-Dec. 10, 2025. **(Oral Presentation)**. (Funding: NSTC)
 3. X. Cheng, **T.-Y. Chen**, C.-P. Tsai, D. Li, H. Zhou, W.-C. Li, and C. Lee, “Unraveling the Far-Field Coupling of Multi-Layered Chiral Metamaterials for CMOS-enabled Mid-Infrared Imaging,” ACS Nano, vol. 19, no. 33, pp. 30292–30302, 2025.
