@@ -10,13 +10,19 @@ permalink: /
 ## Ph.D. (2020-now)
 [**Resolab**](http://ntureso.com/), Institute of Applied Mechanics, NTU, Taipei, Taiwan (Advisor: Prof. Wei-Chang Li)
 
-*Supported by NTU Direct Admission to Doctoral Porgram, TSMC PhD Fellowship, and TSRI Young Talent Fellowship*
+*Supported by *
 
 #### Research Interests
 1. Nonlinear dynamics in MEMS resonators
 2. MEMS-enabled emerging applications
 
-#### Awards
+#### Awards and Honors
+1. NSTC Postdoctoral Research Abroad Program (visiting scholar @ UF w/ Prof. Philip Feng)
+2. TSRI Young Talent Fellowship (mentor: Dr. Sheng-Hsiang Tseng)
+3. TSMC PhD Fellowship (mentor: Dr. Victor Shih)
+4. NTU Direct Admission to Doctoral Porgram
+
+#### Paper Awards
 1. 2025 NTU NEMS Center 使用者大會論文競賽特優獎
 2. 2024 NTU NEMS Center 使用者大會論文競賽特優獎
 3. 2024 TSRI 微機電/微系統晶片特優設計獎 
