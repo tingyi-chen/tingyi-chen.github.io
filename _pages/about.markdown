@@ -17,10 +17,11 @@ permalink: /
 2. MEMS-enabled emerging applications
 
 #### Awards and Honors
-1. NSTC Postdoctoral Research Abroad Program (visiting scholar @ UF w/ Prof. Philip Feng)
-2. TSRI Young Talent Fellowship (mentor: Dr. Sheng-Hsiang Tseng)
-3. TSMC PhD Fellowship (mentor: Dr. Victor Shih)
-4. NTU Direct Admission to Doctoral Porgram
+1. IOP Outstanding Reviewer Awards 2025
+2. NSTC Postdoctoral Research Abroad Program (visiting scholar @ U. Florida w/ Prof. Philip Feng)
+3. TSRI Young Talent Fellowship (mentor: Dr. Sheng-Hsiang Tseng)
+4. TSMC PhD Fellowship (mentor: Dr. Victor Shih)
+5. NTU Direct Admission to Doctoral Porgram
 
 #### Paper Awards
 1. 2025 NTU NEMS Center 使用者大會論文競賽特優獎
